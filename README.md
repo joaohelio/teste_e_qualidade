@@ -4,7 +4,6 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="GENERATOR" content="Planner HTML output" />
-    <style type="text/css">
  </head>
   <body>
     <h1 class="proj-title">
@@ -21,15 +20,11 @@
       </tr>
       <tr>
         <td class="header">Start:</td>
-        <td>abril 13, 2018</td>
+        <td>abril 14, 2018</td>
       </tr>
       <tr>
         <td class="header">Finish:</td>
         <td>abril 28, 2018</td>
-      </tr>
-      <tr>
-        <td class="header">Report Date:</td>
-        <td>abril 7, 2018</td>
       </tr>
     </table>
     <div class="separator"></div>
@@ -260,7 +255,7 @@
               </a>
             </td>
             <td>
-              <span></span>
+              <span>30min</span>
             </td>
           </tr>
           <tr class="odd">
@@ -273,7 +268,7 @@
               </a>
             </td>
             <td>
-              <span></span>
+              <span>30min</span>
             </td>
           </tr>
           <tr class="even">
@@ -286,7 +281,7 @@
               </a>
             </td>
             <td>
-              <span></span>
+              <span>30min</span>
             </td>
           </tr>
           <tr class="odd">
@@ -299,7 +294,7 @@
               </a>
             </td>
             <td>
-              <span></span>
+              <span>10min</span>
             </td>
           </tr>
         </table>
